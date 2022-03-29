@@ -4,6 +4,6 @@ import { Projectile }   from "./projectile.js";
 
 export class Rocket extends Projectile {
     constructor(tank : Tank) {
-        super("rocket", tank)
+        super("rocket", tank, 2000)
     }
 }

@@ -4,3 +4,4 @@ Opdracht Strategy Tank [PRG09]
 
 ![screenshot strategy tank](docs/images/screenshot-strategy-tank.png)
 
+```$tsc -w --outDir ./docs/js/```
